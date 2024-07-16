@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-07-16 23:48+0200\n"
+"PO-Revision-Date: 2024-07-05 00:21+0200\n"
 "Last-Translator: Un Galego Mais\n"
 "Language-Team: Galician <>\n"
 "Language: gl\n"
@@ -76,7 +76,7 @@ msgstr "Tiny no mar"
 #: android/assets/championships/2.xml:27
 msgctxt "track"
 msgid "The Island"
-msgstr "A Illa"
+msgstr ""
 
 #: android/assets/screens/credits.gdxui:6
 msgid "Pixel Wheels"
@@ -230,8 +230,9 @@ msgid "Spanish:"
 msgstr "Español:"
 
 #: android/assets/screens/credits.gdxui:69
+#, fuzzy
 msgid "Victor Hck"
-msgstr "Victor Hck"
+msgstr "Victoria:"
 
 #: android/assets/screens/credits.gdxui:71
 msgid "Basque:"
@@ -242,12 +243,13 @@ msgid "Josu Igoa"
 msgstr "Josu Igoa"
 
 #: android/assets/screens/credits.gdxui:74
+#, fuzzy
 msgid "Galician:"
-msgstr "Galego:"
+msgstr "Italiano:"
 
 #: android/assets/screens/credits.gdxui:75
 msgid "Un Galego Mais"
-msgstr "Un Galego Mais"
+msgstr ""
 
 #: android/assets/screens/credits.gdxui:77
 msgid "French:"
@@ -398,11 +400,11 @@ msgstr ""
 #: android/assets/screens/finishedoverlay.gdxui:36
 #: android/assets/screens/pauseoverlay.gdxui:9
 msgid "RESTART"
-msgstr "RECOMEZAR"
+msgstr "RECOMENZAR"
 
 #: android/assets/screens/finishedoverlay.gdxui:37
 msgid "BACK TO MENU"
-msgstr "VOLTAR AO MENÚ"
+msgstr "VOLTAR O MENÚ"
 
 #: android/assets/screens/finishedoverlay.gdxui:40
 msgid "CONTINUE"
@@ -414,13 +416,15 @@ msgstr "Configuración do mando"
 
 #: android/assets/screens/gamepadconfig.gdxui:11
 #: core/src/com/agateau/pixelwheels/screens/config/KeyboardConfigScreen.java:112
+#, fuzzy
 msgid "Game"
-msgstr "Xogo"
+msgstr "Mando"
 
 #: android/assets/screens/gamepadconfig.gdxui:11
 #: core/src/com/agateau/pixelwheels/screens/config/KeyboardConfigScreen.java:112
+#, fuzzy
 msgid "Menu"
-msgstr "Menú"
+msgstr "Menú:"
 
 #: android/assets/screens/gamepadconfig.gdxui:12
 #: core/src/com/agateau/pixelwheels/screens/config/KeyboardConfigScreen.java:117
@@ -446,9 +450,10 @@ msgstr "Frear"
 
 #: android/assets/screens/gamepadconfig.gdxui:14
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: android/assets/screens/gamepadconfig.gdxui:14
+#, fuzzy
 msgid "Pause"
 msgstr "Pausa"
 
@@ -481,13 +486,14 @@ msgstr "CONFIGURACIÓN"
 
 #: android/assets/screens/mainmenu.gdxui:34
 msgid "SUPPORT"
-msgstr "APOIO"
+msgstr ""
 
 #: android/assets/screens/multiplayer.gdxui:10
 msgid "Select Your Vehicles"
-msgstr "Escolle os teus vehículos"
+msgstr "Escolle OS teus vehículos"
 
 #: android/assets/screens/notenoughgamepads.gdxui:4
+#, fuzzy
 msgid "Some controllers are missing"
 msgstr "Faltan alguns mandos"
 
@@ -524,10 +530,12 @@ msgid "2 PLAYERS"
 msgstr "2 XOGADORES"
 
 #: android/assets/screens/selectplayercount.gdxui:10
+#, fuzzy
 msgid "3 PLAYERS"
 msgstr "3 XOGADORES"
 
 #: android/assets/screens/selectplayercount.gdxui:11
+#, fuzzy
 msgid "4 PLAYERS"
 msgstr "4 XOGADORES"
 
@@ -537,11 +545,11 @@ msgstr "Escolle circuito"
 
 #: android/assets/screens/selecttrack.gdxui:11
 msgid "Best Lap"
-msgstr "Mellor volta"
+msgstr "Millor volta"
 
 #: android/assets/screens/selecttrack.gdxui:14
 msgid "Best Total"
-msgstr "Mellor tempo total"
+msgstr "Millor tempo total"
 
 #: android/assets/screens/selectvehicle.gdxui:10
 msgid "Select Your Vehicle"
@@ -549,23 +557,24 @@ msgstr "Escolle o teu vehículo"
 
 #: android/assets/screens/support.gdxui:5
 msgid "Support"
-msgstr "Apoio"
+msgstr ""
 
 #: android/assets/screens/support.gdxui:11
 msgid "Buy nice Pixel Wheels themed goodies!"
-msgstr "Compra boas larpeiradas temáticas de Pixel Wheels!"
+msgstr ""
 
 #: android/assets/screens/support.gdxui:13
 msgid "SHOP"
-msgstr "TENDA"
+msgstr ""
 
 #: android/assets/screens/support.gdxui:19
 msgid "Support Pixel Wheels development."
-msgstr "Apoiar o desenvolvemento de Pixel Wheels."
+msgstr ""
 
 #: android/assets/screens/support.gdxui:21
+#, fuzzy
 msgid "SUPPORT PAGE"
-msgstr "PÁXINA DE APOIO"
+msgstr "VISITA A PÁXINA DE APOIO"
 
 #: android/assets/vehicles/2cv.xml:1
 msgctxt "vehicle"
@@ -605,7 +614,7 @@ msgstr "Miramar"
 #: android/assets/vehicles/old-f1.xml:1
 msgctxt "vehicle"
 msgid "BRGP42"
-msgstr "BRGP42"
+msgstr ""
 
 #: android/assets/vehicles/pickup.xml:1
 msgctxt "vehicle"
@@ -660,13 +669,13 @@ msgstr[1] "Golpea %# vehículos cun misil"
 #: core/src/com/agateau/pixelwheels/RewardManagerSetup.java:137
 msgid "Leave road one time"
 msgid_plural "Leave road %# times"
-msgstr[0] "Sal da estrada unha vez"
+msgstr[0] "Sal da estrada una vez"
 msgstr[1] "Sal da estrada %# veces"
 
 #: core/src/com/agateau/pixelwheels/RewardManagerSetup.java:120
 msgid "Pick one bonus"
 msgid_plural "Pick %# bonuses"
-msgstr[0] "Colle unha bonificación"
+msgstr[0] "Colle una bonificación"
 msgstr[1] "Colle %# bonificacions"
 
 #: core/src/com/agateau/pixelwheels/gameinput/GamepadInputHandler.java:47
@@ -682,7 +691,7 @@ msgstr "Teclado"
 #: core/src/com/agateau/pixelwheels/gameinput/PieTouchInputHandler.java:51
 #: core/src/com/agateau/pixelwheels/gameinput/PieTouchInputHandler.java:93
 msgid "Pie buttons"
-msgstr "Botóns en forma de torta"
+msgstr "Botóns en forma de pastel"
 
 #: core/src/com/agateau/pixelwheels/gameinput/SidesTouchInputHandler.java:51
 #: core/src/com/agateau/pixelwheels/gameinput/SidesTouchInputHandler.java:111
@@ -790,8 +799,9 @@ msgid "CREDITS"
 msgstr "CRÉDITOS"
 
 #: core/src/com/agateau/pixelwheels/screens/ConfigScreen.java:127
+#, fuzzy
 msgid "WEB SITE"
-msgstr "SITIO WEB"
+msgstr "VISITALO SITIO WEB"
 
 #: core/src/com/agateau/pixelwheels/screens/ConfigScreen.java:141
 msgid "Under the hood"
@@ -802,14 +812,14 @@ msgid ""
 "These options are mostly interesting for Pixel Wheels development, but feel "
 "free to poke around!"
 msgstr ""
-"Estas opcións son principalmente interesantes para o desenvolvemento de "
-"Pixel Wheels, pero podes botarlles unha ollada!"
+"Estas opcións son principalmente interesantes para o desenrolo de Pixel "
+"Wheels, pero podes botarlles unha ollada!"
 
 #: core/src/com/agateau/pixelwheels/screens/ConfigScreen.java:164
 msgid "DEV. OPTIONS"
 msgstr ""
 "SECCIÓN DE LOS\n"
-"DESENVOLVEDORES"
+"DESENROLADORES"
 
 #: core/src/com/agateau/pixelwheels/screens/ConfigScreen.java:176
 msgid "Controls"
@@ -840,7 +850,7 @@ msgstr "Lingua:"
 #: core/src/com/agateau/pixelwheels/screens/ConfigScreen.java:210
 msgctxt "'change' refer to changing languages"
 msgid "Can't change while racing"
-msgstr "Non se pode trocar durante a carreira"
+msgstr ""
 
 #: core/src/com/agateau/pixelwheels/screens/ConfigScreen.java:213
 msgid "Audio"
@@ -860,11 +870,11 @@ msgstr "Vídeo"
 
 #: core/src/com/agateau/pixelwheels/screens/ConfigScreen.java:257
 msgid "Fullscreen:"
-msgstr "Pantalla completa:"
+msgstr "Pantalla chea:"
 
 #: core/src/com/agateau/pixelwheels/screens/ConfigScreen.java:272
 msgid "Rotate camera:"
-msgstr "Xirar a cámara:"
+msgstr ""
 
 #: core/src/com/agateau/pixelwheels/screens/ConfigScreen.java:297
 msgid "CONFIGURE"
@@ -920,7 +930,7 @@ msgstr "Xirar a dereita"
 
 #: core/src/com/agateau/pixelwheels/screens/config/KeyboardConfigScreen.java:110
 msgid "Screenshot"
-msgstr "Captura de pantalla"
+msgstr ""
 
 #: core/src/com/agateau/pixelwheels/screens/config/KeyboardConfigScreen.java:113
 msgid "Up"
@@ -993,7 +1003,7 @@ msgstr ""
 #~ "development in various ways."
 #~ msgstr ""
 #~ "Pixel Wheels e de balde, pero podes apoiar o seu\n"
-#~ "desenvolvemento de varias maneiras."
+#~ "desenrolo de varias maneiras."
 
 #~ msgid "Learn more about Pixel Wheels"
 #~ msgstr "Aprende mais sobre Pixel Wheels"
@@ -1008,7 +1018,7 @@ msgstr ""
 #~ msgstr "¡Listo!"
 
 #~ msgid "Press the gamepad key..."
-#~ msgstr "Preme un botón do mando..."
+#~ msgstr "Pulsa un botón do mando..."
 
 #, fuzzy
 #~ msgctxt "vehicle"
